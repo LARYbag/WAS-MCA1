@@ -1,0 +1,17 @@
+This list shows how much time each plugin has taken to respond to each event:
+
+on_activated:
+    Default.pane: 0.000s total, mean: 0.000s, max: 0.000s
+
+on_close:
+    Default.pane: 0.000s total
+
+on_deactivated:
+    Default.history_list: 0.109s total, mean: 0.012s, max: 0.104s
+
+on_hover:
+    Default.symbol: 0.000s total
+
+on_pre_close:
+    Default.history_list: 0.000s total
+
